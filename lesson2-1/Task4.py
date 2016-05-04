@@ -1,6 +1,4 @@
-a = 'hi higggggghi hihi hi'
 
-print a.replace('hi', 'bye',0)
-
-print "count hi - ", a.count('hi')
-
+c = 'hi Natalia, Hi Roma, HI everyone'.lower()
+print c.replace('hi', 'bye')
+print "count hi - ", c.count('hi')
